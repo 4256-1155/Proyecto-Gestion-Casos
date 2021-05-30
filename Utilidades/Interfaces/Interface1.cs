@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilidades.Interfaces
 {
-    interface ICrud
+    interface Interface1
     {
     }
 }
